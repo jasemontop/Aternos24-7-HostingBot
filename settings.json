@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "jasemissocool",
+    "username": "bot",
     "password": "",
     "type": "offline"
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "ignore me",
-        "im keeping the server alive",
+        "im just a bot",
         "ignore all of my chats"
       ]
     },
